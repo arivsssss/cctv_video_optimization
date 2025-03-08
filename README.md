@@ -89,6 +89,11 @@ Each frame is classified as **Human** or **No Human** and displayed accordingly.
 
 ## Conclusion
 This project successfully optimizes CCTV storage using deep learning. By selectively saving human-detected frames, it achieves **efficient storage management** without losing critical information.
+![image](https://github.com/user-attachments/assets/1a63e709-ce17-48f5-99a9-4fc1dd03cbff)
+
+
+![image](https://github.com/user-attachments/assets/59e7cc29-444a-4968-be14-bd27667d7b9b)
+
 
 ## Future Enhancements
 - Improve **False Positive** detection through fine-tuning.
